@@ -20,14 +20,25 @@
 
 # 🧠 SYSTEM PROFILE
 
-```yaml
-User: Abishek
-Role: Electronics & Communication Engineer
-System: IoT | Embedded | AI Integration
-Status: ACTIVE ⚡
-Mode: Building Future Technology 🚀
-Theme: Space + Electronics + AI 🛰️
-```
+# 🧠 SYSTEM PROFILE
+
+<p align="center">
+  <img src="https://img.shields.io/badge/User-Abishek-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Role-ECE%20Engineer-00FFFF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System-IoT%20%7C%20Embedded%20%7C%20AI-001122?style=for-the-badge&logo=arduino&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Status-ACTIVE⚡-00FFFF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Building%20Future%20Tech-001122?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Theme-Space%20%2B%20Electronics%20%2B%20AI-00FFFF?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:001122&height=2&section=header"/>
+</p>
 
 ---
 
