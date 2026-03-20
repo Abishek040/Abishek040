@@ -52,13 +52,34 @@
 
 # ⚡ ACTIVE PROJECTS
 
-```diff
-+ Quiz platform for TEQUEST
-+ Li-Fi Data Transfer System
-+ Fingerprint Voting System
-+ IoT Smart Automation Projects
-```
+# ⚡ ACTIVE PROJECTS
 
+<p align="center">
+  <a href="https://github.com/Abishek040/techquest">
+    <img src="https://img.shields.io/badge/TEQUEST%20Quiz%20Platform-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abishek040/Lifi_Data_Transfer_System">
+    <img src="https://img.shields.io/badge/LiFi%20Data%20Transfer-001122?style=for-the-badge&logo=wifi&logoColor=00FFFF"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abishek040/Biometric-Fingerprint-Voting-System-Arduino-Based-Secure-Voting">
+    <img src="https://img.shields.io/badge/Fingerprint%20Voting%20System-00FFFF?style=for-the-badge&logo=fingerprint&logoColor=black"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abishek040/contact-info">
+    <img src="https://img.shields.io/badge/Contact%20Me%20Website-001122?style=for-the-badge&logo=about-dot-me&logoColor=00FFFF"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,100:001122&height=2"/>
+</p>
 ---
 
 # 🛰️ CORE SYSTEM VISUAL
