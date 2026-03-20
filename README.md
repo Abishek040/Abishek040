@@ -34,6 +34,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight" />
+## 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abishek040/Abishek040/output/github-contribution-grid-snake.svg">
+</p>
 </p>
 
 ---
