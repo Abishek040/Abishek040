@@ -18,7 +18,6 @@
 
 ---
 
-# 🧠 SYSTEM PROFILE
 
 # 🧠 SYSTEM PROFILE
 
@@ -50,7 +49,6 @@
 
 ---
 
-# ⚡ ACTIVE PROJECTS
 
 # ⚡ ACTIVE PROJECTS
 
