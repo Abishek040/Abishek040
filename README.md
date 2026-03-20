@@ -1,98 +1,112 @@
-<!-- 🔥 CUSTOM NEON BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=180&section=header&text=JARVIS%20//%20ABISHEK&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<!-- ⚡ TYPING AI EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=JARVIS+ONLINE...;Initializing+Systems...;Electronics+Engineer;IoT+Innovator;AI+%2B+Embedded+Systems;Welcome+Commander+Abishek&center=true&width=700&height=50&color=00F7FF&vCenter=true&size=24">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001122&height=250&section=header&text=ABISHEK&fontSize=90&fontColor=00FFFF&animation=twinkling&fontAlignY=40&desc=SYSTEMS%20ONLINE&descAlignY=65&descAlign=50" width="100%" alt="Abishek Profile Banner"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Initializing+JARVIS...;Electronics+Engineer;IoT+Innovator;Embedded+Systems+Developer;Space+Tech+Enthusiast" alt="Typing Animation" />
+</a>
 
-# 🤖 AI CONTROL PANEL
+<br><br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="500">
-</p>
+### 🛰️ AI CONTROL PANEL 🛰️
+<img src="https://i.pinimg.com/originals/a3/52/69/a352695ddbdc22bdc48b261aa31f0f4a.gif" width="600" alt="JARVIS Interface GIF" style="border-radius: 10px; border: 2px solid #00FFFF; box-shadow: 0 0 15px #00FFFF;"/>
 
----
+<br><br>
 
-# 🧠 SYSTEM PROFILE
+### 📟 SYSTEM PROFILE 📟
+</div>
 
 ```yaml
-User: Abishek
-Role: Electronics & Communication Engineer
-System: IoT | Embedded | AI Integration
-Status: ACTIVE ⚡
-Mode: Building Future Technology 🚀
-Theme: Space + Electronics + AI 🛰️
+---
+system_status: "ONLINE & SECURE"
+user_identity: "Abishek"
+access_level: "Root Admin"
+domain_expertise: 
+  - "Electronics & Communication Engineering"
+  - "Internet of Things (IoT)"
+  - "Embedded Systems"
+core_processor: "Cerebral Cortex v2.0"
+neural_links:
+  hardware: ["Microcontrollers", "PCB Design", "Sensors", "Arduino"]
+  firmware: ["RTOS", "C/C++", "Bare-metal"]
+  networks: ["MQTT", "LoRa", "Zigbee", "CoAP"]
+current_directive: "Engineering the intersection of IoT and Space Technology."
+---
 ```
 
----
+<div align="center">
+<br>
 
-# ⚙️ TECH HUD (HACKER STYLE)
+### ⚙️ TECH MATRIX ⚙️
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,github,vscode,docker,aws&theme=dark" alt="Tech Stack" />
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,git,github,vscode&theme=dark" />
-</p>
+<br><br>
 
----
-
-# ⚡ ACTIVE PROJECTS
+### 🚀 MISSION LOGS 🚀
+</div>
 
 ```diff
-+ Smart Glasses for Blind (AI Vision)
-+ Li-Fi Data Transfer System
-+ Fingerprint Voting System
-+ IoT Smart Automation Projects
++ [ ACTIVE MISSIONS ]
+! AETHER_CORE: Developing next-gen embedded hardware architectures.
+! QUANTUM_LINK: Building low-latency IoT communication protocols.
+
+# [ STANDBY DIRECTIVES ]
+- OVERRIDE_PROTOCOL: Automating sensor nodes for edge computing.
+- NEBULA_DRIVE: Integrating AI models into resource-constrained microcontrollers.
+
++ [ SYSTEM UPDATES ]
+@@ Constantly upgrading firmware and exploring decentralized networks. @@
 ```
 
----
+<div align="center">
+<br>
 
-# 🛰️ CORE SYSTEM VISUAL
+### 🔌 CORE SYSTEM VISUAL 🔌
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="600" alt="Circuit Matrix" style="border-radius: 10px; border: 2px solid #00BFFF; box-shadow: 0 0 15px #00BFFF;"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400">
-</p>
+<br><br>
 
----
+### 📊 AI ANALYTICS DASHBOARD 📊
+<br>
 
-# 📊 AI ANALYTICS DASHBOARD
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek040&bg_color=0D1117&title_color=00FFFF&text_color=00BFFF&icon_color=00FFFF&border_color=00FFFF&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek040&background=0D1117&stroke=00FFFF&ring=00BFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=00BFFF&hide_border=false" alt="GitHub Streak" width="48%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&border_radius=20"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishek040&theme=tokyonight&border_radius=20"/>
-</p>
+<br><br>
 
----
+### 🧠 NEURAL ACTIVITY MAP 🧠
+<br>
 
-# 🧬 SYSTEM ACTIVITY MAP
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abishek040&bg_color=0D1117&title_color=00FFFF&text_color=00BFFF&icon_color=00FFFF&border_color=00FFFF" alt="Profile Details" width="80%" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abishek040&theme=tokyonight"/>
-</p>
+<br><br>
 
----
+### 🐍 CONTRIBUTION DATA FLOW 🐍
+<br>
 
-# 🐍 NEURAL TRACKING SYSTEM
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abishek040/Abishek040/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abishek040/Abishek040/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abishek040/Abishek040/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abishek040/Abishek040/output/github-contribution-grid-snake.svg">
-</p>
+<br><br>
 
----
-
-# 🌐 CONNECT TERMINAL
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white">
+### 📡 COMMUNICATION TERMINAL 📡
+<p>
+  <a href="https://linkedin.com/in/Abishek040" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN_SECURE_COMMS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rgobika78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ENCRYPTED_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0D1117&labelColor=000000" alt="Email" />
   </a>
 </p>
 
----
+<hr style="border: 1px solid #00FFFF; width: 50%;">
+<p align="center" style="color: #00BFFF; font-family: monospace;">
+  /// END OF TRANSMISSION ///
+</p>
 
-# ⚡ SYSTEM MESSAGE
-
-<h3 align="center">⚡ "I don't code... I engineer the future." ⚡</h3>
+</div>
