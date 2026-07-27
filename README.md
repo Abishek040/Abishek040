@@ -255,7 +255,7 @@ Biometric voting terminal preventing duplicate votes via fingerprint verificatio
 ![Status](https://img.shields.io/badge/status-complete-06B6D4?style=flat-square)
 ![Difficulty](https://img.shields.io/badge/difficulty-intermediate-F59E0B?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](#) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abishek040/Biometric-Fingerprint-Voting-System-Arduino-Based-Secure-Voting) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/Abishek040/Biometric-Fingerprint-Voting-System-Arduino-Based-Secure-Voting)
 
 </td>
 </tr>
@@ -268,7 +268,7 @@ Data transmission over visible light as a wireless-communication alternative.
 ![Status](https://img.shields.io/badge/status-research-8B5CF6?style=flat-square)
 ![Difficulty](https://img.shields.io/badge/difficulty-advanced-EF4444?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](#) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abishek040/Lifi_Data_Transfer_System) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/Abishek040/Lifi_Data_Transfer_System)
 
 </td>
 <td width="50%">
@@ -328,6 +328,30 @@ Verilog RTL designs exploring combinational and sequential logic fundamentals.
 ![Difficulty](https://img.shields.io/badge/difficulty-beginner-22C55E?style=flat-square)
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](#) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 TEQUEST — Quiz Platform
+Web-based quiz platform for creating, hosting, and taking timed quizzes.
+`Web` `JavaScript` `Full-Stack`
+![Status](https://img.shields.io/badge/status-active-22C55E?style=flat-square)
+![Difficulty](https://img.shields.io/badge/difficulty-intermediate-F59E0B?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abishek040/techquest) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/Abishek040/techquest)
+
+</td>
+<td width="50%">
+
+### 🌐 Contact Me — Personal Site
+Lightweight personal contact/portfolio landing page.
+`HTML` `CSS` `JavaScript`
+![Status](https://img.shields.io/badge/status-complete-06B6D4?style=flat-square)
+![Difficulty](https://img.shields.io/badge/difficulty-beginner-22C55E?style=flat-square)
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abishek040/contact-info) [![Docs](https://img.shields.io/badge/Docs-06B6D4?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/Abishek040/contact-info)
 
 </td>
 </tr>
