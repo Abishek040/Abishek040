@@ -459,8 +459,6 @@ Relevant coursework: Embedded Systems · Microprocessors & Microcontrollers · D
      ============================================================ -->
 ## 📈 GitHub Analytics
 
-## 📈 GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
