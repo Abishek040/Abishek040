@@ -461,9 +461,9 @@ Relevant coursework: Embedded Systems · Microprocessors & Microcontrollers · D
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek040&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abishek040&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
