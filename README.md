@@ -1,19 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:22D3EE&height=260&section=header&text=Abishek%20A&fontSize=64&fontColor=E0F7FF&fontAlignY=36&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20PCB%20Design%20%7C%20Hardware%20Testing%20%26%20Validation&descAlignY=56&descSize=17&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:22D3EE&height=220&section=header&text=Abishek%20A&fontSize=64&fontColor=E0F7FF&fontAlignY=38&desc=Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20PCB%20Design&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Electronics+Engineer;Embedded+Systems+Engineer;PCB+Design+Enthusiast;Hardware+Testing+%26+Validation;Embedded+Firmware+Developer;VLSI+%2F+Digital+Design+Learner;Hardware+%2B+Software+Builder" alt="Typing SVG" />
+<a href="https://github.com/Abishek040">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Electronics+Engineer;Embedded+Systems+Engineer;PCB+Design+Enthusiast;Hardware+Testing+%26+Validation;Embedded+Firmware+Developer;VLSI+%2F+Digital+Design+Learner;Hardware+%2B+Software+Builder" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Abishek040"><img src="https://img.shields.io/badge/GitHub-Abishek040-0E75B6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abishek-a-5703382a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://techdudes.in"><img src="https://img.shields.io/badge/Website-techdudes.in-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:abishek2005vk18@gmail.com"><img src="https://img.shields.io/badge/Email-abishek2005vk18%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Abishek040">
+<img src="https://img.shields.io/badge/GitHub-Abishek040-0E75B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abishek-a-5703382a0">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://techdudes.in">
+<img src="https://img.shields.io/badge/Website-techdudes.in-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:abishek2005vk18@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -448,10 +459,13 @@ Relevant coursework: Embedded Systems · Microprocessors & Microcontrollers · D
      ============================================================ -->
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0EA5E9&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek040&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abishek040&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek040&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
