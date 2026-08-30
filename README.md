@@ -353,17 +353,6 @@ Wearable embedded assistive device for real-time obstacle and object detection �
 **Repository:** _coming soon_
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🌐 Other Work
-**contact-info**
-
-A lightweight personal contact page — small utility repo, not a featured engineering project.
-
-<a href="https://github.com/Abishek040/contact-info"><img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
 </tr>
 </table>
 
