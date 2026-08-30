@@ -487,11 +487,14 @@ Lightweight personal contact/portfolio landing page.
 <br/>
 
 <!-- ============================================================
-     RANDOM DEV QUOTE
+     ENGINEERING QUOTE
      ============================================================ -->
+
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ⚡ "Build it. Test it. Debug it. Make it work."
+
+<sub>Hardware • Firmware • PCB Design • Testing • Engineering</sub>
 
 </div>
 
@@ -500,8 +503,15 @@ Lightweight personal contact/portfolio landing page.
 <!-- ============================================================
      CODING GIF
      ============================================================ -->
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+
+<img
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  width="450"
+  alt="Coding animation"
+/>
+
 </div>
 
 <br/>
